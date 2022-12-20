@@ -8,6 +8,3 @@ images:
 - name: docker.io/nightmar39/flask-bg-app
   newName: docker.io/salesdemosa/flask-cz
   newTag: 23f0df4
-- name: quay.io/codefresh_sa/color-service
-  newName: docker.io/salesdemosa/flask-cz
-  newTag: f99708f
