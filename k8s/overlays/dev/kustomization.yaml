@@ -6,5 +6,5 @@ patchesStrategicMerge:
 - service.yaml
 images:
 - name: docker.io/nightmar39/flask-bg-app
-  newName: docker.io/salesdemosa/flask-cz
-  newTag: 1e1e021
+  newName: salesdemosa/flask-cz
+  newTag: "1155228"
