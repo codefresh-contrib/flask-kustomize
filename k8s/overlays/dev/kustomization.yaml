@@ -10,4 +10,4 @@ images:
   newTag: 971b6d3
 - name: quay.io/codefresh_sa/color-service
   newName: salesdemosa/flask-cz
-  newTag: d2359e2
+  newTag: 69e78d2
