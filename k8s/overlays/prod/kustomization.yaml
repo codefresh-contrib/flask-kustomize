@@ -6,8 +6,5 @@ patchesStrategicMerge:
 - service.yaml
 images:
 - name: docker.io/nightmar39/flask-bg-app
-  newName: docker.io/salesdemosa/flask-cz
-  newTag: a12e802
-- name: quay.io/codefresh_sa/color-service
-  newName: docker.io/salesdemosa/flask-cz
-  newTag: f99708f
+  newName: salesdemosa/flask-cz
+  newTag: 971b6d3
