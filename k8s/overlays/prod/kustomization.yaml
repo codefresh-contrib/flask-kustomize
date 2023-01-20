@@ -7,4 +7,4 @@ patchesStrategicMerge:
 images:
 - name: docker.io/nightmar39/flask-bg-app
   newName: salesdemosa/flask-cz
-  newTag: bad270f
+  newTag: 971b6d3
